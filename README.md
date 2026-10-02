@@ -12,7 +12,6 @@ Author: [David C. Manuelda](https://github.com/StormBytePP) · [Sponsor](https:/
 | Repository | Role |
 |---|---|
 | [StormByte](https://github.com/StormByte-Suite/StormByte) | Foundation every other module links: platform, `Expected`, exceptions, `Error`/`Fault`, little-endian serialization, `CString` / `WCString`, `BinaryData`, `Size` / `ByteSize`, UUID v4, bitmasks, clonable types, `ThreadLock`, concepts |
-| [StormByte-String](https://github.com/StormByte-Suite/StormByte-String) | DLL-safe UTF-8 / wide text on top of Base: views, conversions and helpers without crossing `std::string` across a shared-library boundary |
 | [StormByte-System](https://github.com/StormByte-Suite/StormByte-System) | Processes with pipes, chaining, device classification, host info, thread name, environment expansion. POSIX and Windows, one API |
 | [StormByte-Buffer](https://github.com/StormByte-Suite/StormByte-Buffer) | FIFO, SharedFIFO, Ring, Producer/Consumer, Hopper, Sink, Bridge, Pumper, pipelines and buffered I/O |
 | [StormByte-Config](https://github.com/StormByte-Suite/StormByte-Config) | Human-readable text and versioned binary configuration documents: values, comments, groups, lists, `Save` / `Load` |
