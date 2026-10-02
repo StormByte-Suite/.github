@@ -4,7 +4,7 @@ Focused C++26 libraries and the tools that keep them buildable on Linux, Windows
 
 The public surface is intentionally small. Each module does one job. Third-party types stay private. Text and binary data that cross a DLL / `.so` boundary use suite types, not `std::string` by value.
 
-Docs: [dev.stormbyte.org](https://dev.stormbyte.org/StormByte/)  
+Docs: [suite.stormbyte.org](https://suite.stormbyte.org)  
 Author: [David C. Manuelda](https://github.com/StormBytePP) · [Sponsor](https://github.com/sponsors/StormBytePP)
 
 ## Libraries
